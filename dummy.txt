@@ -1,1 +1,2 @@
 This is Sudharson's dummy file. It is used for testing purposes only. Please do not delete or modify this file.
+I am going to add one extra line in the file dummy.txt
